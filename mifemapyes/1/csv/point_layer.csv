@@ -1,0 +1,114 @@
+qc_id,coordinates y,coordinates x,pharmacy,city,address,phone number,carries mifegymiso,kept in stock,charge for it?,charge for it?_1,icon_url
+0,42.9059698,-78.92272595,Fort Erie Pharmacy ,Fort Erie,"224 Garrison Rd, Unit 6 ",(905) 991-0007,Yes - next day delivery,No,Has never filled - resources provided,Has never filled - resources provided,./0.png
+1,42.90629278,-78.96241579,Pharmasave ,Fort Erie,1264 Garrison Rd,(289) 320-9090,Yes - next day delivery,No,No,No,./0.png
+2,42.90771867,-78.94012996,Remedy'sRx Pharmacy,Fort Erie,"660 Garrison Rd, Unit 7",(905) 994-0990,Yes,Yes,No,No,./0.png
+3,42.90672582,-78.92914063,Shoppers Drug Mart,Fort Erie,"450 Garrison Rd, Bldg G",(905) 871-2226,Yes,Best to call ahead,No,No,./0.png
+4,42.90683569,-78.94373072,Walmart Pharmacy,Fort Erie,750 Garrison Rd,(905) 991-1025,Yes - next day delivery,No,No,No - didn't know until OCP info provided,./0.png
+79,43.15717218,-79.26306085,Sam's Pharmacy,St Catherines ,"111 Fourth Ave, Unit 19",(905) 685-6662,Yes,,No,,./0.png
+5,42.90605592,-78.92659579,Rexall Pharmacy ,Fort Erie ,"310 Garrison Rd, Suite C",(905) 994-9000,Yes - next day delivery,,No - didn't know until OCP info provided,No,./0.png
+6,42.91305056,-78.92502829,Whole Health Pharmacy,Fort Erie ,"238 Bertie St, Suite 10",(289) 320-6401,Yes - next day delivery,No,No,No,./0.png
+7,43.2054472,-79.59023696,Real Canadian Superstore,Grimsby,361 South Service Rd,(905) 309-5070,Yes - next day delivery,No,No,No,./0.png
+8,43.18794641,-79.54449847,Shoppers Drug Mart,Grimsby,150 Main St E,(905) 945-5422,Yes,No,No,No,./0.png
+9,43.19706725,-79.56757113,Shoppers Drug Mart,Grimsby,"42 St Andrews Ave, Unit 1",(905) 945-9775,Yes,Yes,No,Has never filled - resources provided,./0.png
+10,43.10336348,-79.07310342,All Health Pharmacy and Clinic,Niagara Falls,4932 Victoria Ave,(289) 296-1301,Yes - next day delivery,No,Has never filled - resources provided,No,./0.png
+11,43.10574569,-79.07276205,Community Health Pharmacy ,Niagara Falls,4790 Victoria Ave,(905) 354-4383,Yes,Yes,No,Was not sure - resources provided,./0.png
+12,43.08850671,-79.13586447,FreshCo Pharmacy ,Niagara Falls,5931 Kalar Rd,(905) 371-8925,Yes - delivery around 2dys,No,No,No,./0.png
+13,43.09503133,-79.09048953,Goldencare Pharmacy ,Niagara Falls,5546 Portage Rd,(905) 354-0077,Yes - next day delivery,No,Was not sure - resources provided,**Yes - pretty argumentative around resources provided,./0.png
+14,43.10541566,-79.07297073,Guardian Pharmacy,Niagara Falls,4796 Victoria Ave,(905) 354-6437,Yes - next day delivery,No,Was not aware of coverage - resources provided,No,./0.png
+15,43.07859844,-79.09672547,IDA Pharmacy ,Niagara Falls,6680 Drummond Rd,(905) 354-1812,Yes - next day delivery,Yes - low stock,No,No,./0.png
+16,43.05929278,-79.04971635,IDA Pharmacy ,Niagara Falls,3700 Main St,(289) 296-2845,Yes - next day delivery,No,No,No,./0.png
+17,43.12114869,-79.12280539,IDA Pharmacy ,Niagara Falls,3770 Montrose Rd,(905) 357-6577,Yes - next day delivery,No,**Yes - pretty argumentative around resources provided,No,./0.png
+18,43.10493603,-79.10268905,Niagara Falls Centre Pharmacy ,Niagara Falls,6453 Morrison St,(905) 374-2050,Yes - next day delivery,No,No,No,./0.png
+19,43.08964317,-79.09179859,PharmaChoice ,Niagara Falls,5845 Ferry St,(289) 296-3200,Yes - next day delivery,No,No,,./0.png
+20,43.08930976,-79.13283284,PharmaChoice ,Niagara Falls,8123 Lundy's Lane ,(905) 354-8000,Yes - next day delivery,No,No,No,./0.png
+21,43.10753361,-79.07287144,PharmaChoice ,Niagara Falls,"4632 Victoria Ave, Unit 1",(905) 354-1115,Yes - next day delivery,No,No,No,./0.png
+22,43.10547335,-79.11214981,PharmaSave,Niagara Falls,"4725 Dorchester Rd, Unit A5",(289) 296-7600,Yes - next day delivery,No,No,Wasn't sure - resources provided,./0.png
+23,43.09009585,-79.13702847,PharmaSave,Niagara Falls,"8279 Lundy's Lane, Unit 4",(905) 228-5040,Yes - next day delivery,No,No,No,./0.png
+24,43.09895507,-79.08579885,PharmaSave,Niagara Falls,"5233 Stanley Ave, Unit 10",(289) 341-0122,Yes - next day delivery,No,No,No,./0.png
+25,43.08916533,-79.10305962,Rexall Pharmacy ,Niagara Falls,6484 Lundy's Lane,(905) 354-3314,Yes - next day delivery,No,No,No,./0.png
+26,43.09056798,-79.10454413,Shoppers Drug Mart,Niagara Falls,6565 Lundy's Lane,(905) 354-3845,Yes - next day delivery,,,Unsure - resources provided,./0.png
+27,43.1192421,-79.10128018,Shoppers Drug Mart,Niagara Falls,"3701 Portage Rd, Unit 1",(905) 354-6511,Yes - next day delivery,No,No,No,./0.png
+28,43.09993357,-79.07347581,Shoppers Drug Mart,Niagara Falls,"5175 Victoria Ave, Unit 1",(905) 356-5096,Yes - next day delivery,No,No,No,./0.png
+29,43.09796946,-79.09760865,Valley Way Pharmacy,Niagara Falls,"6150 Valley Way, Unit 103",(905) 354-1979,Yes - can order,No,Wasn't sure - resources provided,No,./0.png
+30,43.06873491,-79.11912596,Walmart Pharmacy,Niagara Falls,7481 Oakwood Dr,(905) 371-3335,Yes - next day delivery,No,No,No,./0.png
+31,43.10360721,-79.11462689,Zehrs,Niagara Falls,6940 Morrison St,(905) 358-2787,Yes - next day delivery,,No,No,./0.png
+32,43.06514544,-79.12830535,Costco Pharmacy ,Niagara Falls ,7500 Pin Oak Dr,(365) 447-0210,Yes - next day delivery,,Did not know it was covered after 25 - resources provided,No,./0.png
+33,43.08969069,-79.1009902,Health Plus Pharmacy ,Niagara Falls ,6360 Lundy's Lane,(289) 606-0678,Yes - next day delivery,,No,No,./0.png
+34,43.11550018,-79.09788971,IDA Pharmacy ,Niagara Falls ,6161 Thorold Stone Rd ,(905) 354-3023,Yes - next day delivery,,No,No,./0.png
+35,43.06610875,-79.1259963,MedCare Drug Mart ,Niagara Falls ,"7555 Montrose Rd, Unit E2",(289) 292-0430,Yes,,No,No,./0.png
+36,43.16556246,-79.10039361,Guardian Pharmacy ,Niagara on the Lake ,"412 Four Mile Creek Rd, Unit 3 ",(905) 262-8484,Yes - next day delivery,,No,No,./0.png
+37,43.25470326,-79.07215801,PharmaSave,Niagara on the Lake ,233 King St ,(905) 468-8400,Yes,,No,No,./0.png
+38,43.24544697,-79.09466605,Shoppers Drug Mart,Niagara on the Lake ,111B Garrison Village Dr,(905) 468-0332,Yes - best to call first,,No,No,./0.png
+39,42.90549176,-79.26695516,PharmaChoice ,Port Colborne,"287 West Side Rd, Unit 175",(905) 834-6666,Yes - next day delivery,,No,No,./0.png
+40,42.89163058,-79.26128705,Port Medical Pharmacy,Port Colborne,"254 Killaly St W, Unit 9",(905) 834-7678,Yes - next day delivery,,No,No,./0.png
+41,42.88678065,-79.25349012,Shoppers Drug Mart,Port Colborne,77 Clarence St,(905) 834-4046,Yes - next day delivery,,No,No,./0.png
+42,43.09780289,-79.54511025,Smithville Pharmacy,Smithville,128 St Catherines St,(905) 957-9000,Yes - next day delivery,,Unsure - resources provided,No,./0.png
+43,43.15657501,-79.27412692,Cornerstone Pharmacy,St Catherines ,"295 Fourth Ave, Unit B1",(289) 362-3488,Yes - next day delivery,,Unsure - super receptive to resources,No,./0.png
+44,43.11851558,-79.24297395,DrugSmart Pharmacy ,St Catherines ,"605 Glenridge Ave, Unit 9",(905) 688-8800,Yes - no,,Unsure - resources provided,No,./0.png
+45,43.17648167,-79.24133546,Food and Drug Basics Pharmacy,St Catherines ,275 Geneva St,(905) 935-3404,Yes - next day delivery,,Unsure - resources provided,Unsure - resources provided,./0.png
+46,43.1490509,-79.25113122,Garden City Pharmacy,St Catherines , 68 St Paul St ,(905) 704-1200,Yes - next day delivery,,No,No,./0.png
+47,43.16847955,-79.23360639,Goldencare Pharmacy ,St Catherines ,264 Welland Ave,(905) 682-4666,Yes - next day delivery,,No,No,./0.png
+48,43.17416759,-79.21713785,Greater Niagara Specialty Pharmacy ,St Catherines ,464 Welland Ave,(365) 801-5551,Yes - next day delivery,,No,No,./0.png
+49,43.13201683,-79.26925413,Guardian Pharmacy ,St Catherines ,"10 Macturnbull Dr, Unit 11",(905) 687-1102,Yes - next day delivery,,No,No,./0.png
+50,43.1530306,-79.27861292,Hauser's Pharmacy ,St Catherines ,NHS 1200 Fourth Ave,(905) 685-3030,Yes - call to check stock,,Resources provided - receptive,No - though sounded unsure,./0.png
+51,43.16152152,-79.25500416,Hope Pharmacy,St Catherines ,7 Welland Ave,(289) 273-4561,Yes,,No,No,./0.png
+52,43.18505697,-79.20885664,IDA Pharmacy ,St Catherines ,"366 Bunting Rd, Unit 1",(905) 938-0001,Yes - next day delivery,,No,No,./0.png
+53,43.15322086,-79.21396505,IDA Pharmacy ,St Catherines ,90 Hartzel Rd,(905) 682-6979,Yes - next day delivery,,No,No,./0.png
+54,43.17146492,-79.27394206,IDA Pharmacy ,St Catherines ,211 Martindale Rd,(905) 685-7117,Yes - next day delivery,,No,Unsure - resources provided,./0.png
+55,43.16408499,-79.24572919,IDA Pharmacy ,St Catherines ,"120 Welland Ave, Unit 10B",(905) 641-4440,Yes - next day delivery,,No,No,./0.png
+56,43.15899419,-79.24565215,King St Pharmacy,St Catherines ,110 King St,(905) 988-1286,Yes - next day delivery,,No,No,./0.png
+57,43.18527884,-79.25199698,Lake Street Pharmacy ,St Catherines ,"353 Lake St, Units 15 & 16",(905) 646-2888,Yes,At times - call first,No,No,./0.png
+58,43.19579572,-79.23756939,Linwell Medical Pharmacy,St Catherines ,282 Linwell Rd,(905) 938-0147,Yes - next day delivery,,No,No,./0.png
+59,43.14659293,-79.21476346,Merriton Community Pharmacy,St Catherines ,"491 Merritt St, Unit 3",(905) 685-4777,Yes - next day delivery,,No,No,./0.png
+60,43.1909593,-79.25148123,Neighbourhood Pharmacy ,St Catherines ,532 Lake St,(905) 935-2273,Yes - next day delivery,,No,,./0.png
+61,43.1725051,-79.22890852,Niagara Health Centre Pharmacy,St Catherines ,180 Vine St S,(905) 684-1181,Yes - next day delivery,,No,,./0.png
+62,43.17292781,-79.21907109,Pharma-Star  Medical Pharmacy ,St Catherines ,"448 Welland Ave, Unit 3-4",(905) 984-4111,Yes - next day delivery,,No,,./0.png
+63,43.19636519,-79.25935989,PharmaChoice ,St Catherines ,"2 Lakeshore Rd, Unit 3",(905) 935-0002,Yes - next day delivery,,No,,./0.png
+64,43.14041062,-79.23969555,PharmacyGo,St Catherines ,"1 Belton Blvd, Unit 101",(905) 684-2772,Yes - next day delivery,,No,,./0.png
+65,43.18586847,-79.20998281,PharmaSave,St Catherines ,574 Carlton St,(289) 479-5690,Yes - next day delivery,,No,,./0.png
+66,43.18788672,-79.20680707,PharmaSave,St Catherines ,595 Carlton St,(905) 934-2222,Yes - next day delivery,,No,,./0.png
+67,43.19685271,-79.26055652,PharmaSave,St Catherines ,101 Lakeport Rd,(905) 646-3335,Yes - next day delivery,,No,,./0.png
+68,43.21295366,-79.22370991,PharmaSave,St Catherines ,260 Lakeshore Rd,(905) 934-2023,Yes - next day delivery,,No,,./0.png
+69,43.17097331,-79.26283764,Pharmasave,St Catherines ,"318 Ontario St, Unit E",(905) 687-7283,Yes - next day delivery,,No,,./0.png
+70,43.16377309,-79.23022533,PharmaSave,St Catherines ,"145 Queenston St, Unit 104",(905) 641-0707,Yes - next day delivery,,No,,./0.png
+71,43.18912271,-79.22721501,PharmaSave,St Catherines ,400 Scott St,(905) 934-3333,Yes - next day delivery,,No,,./0.png
+72,43.16535356,-79.24222609,PharmaSave,St Catherines ,164 Welland Ave,(905) 988-1919,Yes - next day delivery,,No,,./0.png
+73,43.1641305,-79.23355932,Queen's Pharmacy,St Catherines ,"112 Queenston St, Unit M1",(905) 688-6363,Yes - next day delivery,,No,,./0.png
+74,43.15481169,-79.26621605,Real Canadian Superstore,St Catherines ,411 Louth St,(905) 984-4179,Yes - next day delivery,,No,,./0.png
+75,43.17967891,-79.23114582,Remedy'sRx Pharmacy,St Catherines ,"359 Carlton St, Unit 6 ",(289) 362-6026,Yes - next day delivery,,No,,./0.png
+76,43.2008746,-79.25292374,Remedy'sRx Pharmacy,St Catherines ,"33 Lakeshore Rd, Unit 28",(905) 938-9998,Yes - next day delivery,,Unsure - resources provided,,./0.png
+77,43.17072802,-79.23452344,Remedy'sRx Pharmacy,St Catherines ,"140 Niagara St, Unit 106",(905) 682-5210,Yes - next day delivery,,No,,./0.png
+78,43.1644851,-79.23375945,Rexall Pharmacy ,St Catherines ,111 Queenston St,(905) 641-0101,Yes - next day delivery,,No,,./0.png
+80,43.17800917,-79.24023573,Sam's Pharmacy,St Catherines ,"284 Geneva St, Unit 5",(905) 646-2225,Yes,,No,,./0.png
+81,43.17881996,-79.20974313,Shoppers Drug Mart,St Catherines ,"286 Bunting Rd, Unit 22",(905) 688-6733,Yes,,No - though sounded unsure,,./0.png
+82,43.17261082,-79.2518653,Shoppers Drug Mart,St Catherines ,"125 Carlton St, Unit 8A",(905) 688-2132,Yes - next day delivery,,No,,./0.png
+83,43.15717603,-79.26555455,Shoppers Drug Mart,St Catherines ,"275 Fourth Ave, Bldg E",(905) 641-2244,Yes - next day delivery,,No,,./0.png
+84,43.13704985,-79.22461217,Shoppers Drug Mart,St Catherines ,221 Glendale Ave,(905) 641-8855,Yes - next day delivery,,No,,./0.png
+85,43.20107849,-79.22070705,Shoppers Drug Mart,St Catherines ,"500 Grantham Ave, Suite 486",(905) 937-5050,Yes - next day delivery,,Unsure - resources provided,,./0.png
+86,43.1471737,-79.21502313,Shoppers Drug Mart,St Catherines ,181 Hartzel Rd,(905) 641-1011,Yes - next day delivery,,No,,./0.png
+87,43.20550701,-79.24433496,Shoppers Drug Mart,St Catherines ,105 Lakeshore Rd,(905) 934-5545,Yes,,No,,./0.png
+88,43.19580027,-79.25921222,Shoppers Drug Mart,St Catherines ,600 Ontario St,(905) 937-3532,Yes,,No,,./0.png
+89,43.13339513,-79.25475237,Shoppers Drug Mart,St Catherines ,245 Pelham Rd,(905) 688-5743,Yes,,No,,./0.png
+90,43.19077701,-79.22726562,Shoppers Drug Mart,St Catherines ,"387 Scott St, Unit 1",(905) 934-4260,Yes,,No,,./0.png
+91,43.14234248,-79.23885906,Total Health Pharmacy,St Catherines ,"209 Glenridge Ave, Unit 6",(905) 984-6345,Yes - next day delivery,,No,,./0.png
+92,43.13826082,-79.22277622,Walmart Pharmacy,St Catherines ,221 Glendale Ave,(905) 646-1914,Yes - next day delivery,,No,,./0.png
+93,43.15182764,-79.26776257,Walmart Pharmacy,St Catherines ,420 Vansickle Rd,(905) 687-1182,Yes - next day delivery,,Unsure - resources provided,,./0.png
+94,43.17798181,-79.21216373,Walmart Pharmacy,St Catherines ,525 Welland Ave,(905) 685-6569,Yes - next day delivery,,Unsure - resources provided,,./0.png
+95,43.13692908,-79.22430962,Zehrs,St Catherines ,221 Glendale Ave,(905) 984-3394,Yes - next day delivery,,No,,./0.png
+96,43.12419183,-79.19978579,Pharma Viva Pharmacy ,Thorold,6 Clairmont St,(905) 680-7077,Yes - next day delivery,,Unsure - resources provided,,./0.png
+97,43.12551497,-79.20440065,Rexall Pharmacy ,Thorold,"9 Pine St N, Unit 1A",(905) 227-0707,Yes - next day delivery,,Unsure - resources provided,,./0.png
+98,43.12520126,-79.2073504,Thorold Medical Pharmacy,Thorold,60 Albert St W,(905) 227-6881,Yes - next day delivery,,No,,./0.png
+99,43.15196573,-79.39200913,IDA Pharmacy ,Vineland,3387 King St,(905) 562-4661,Yes - next day delivery,,Unsure - resources provided,,./0.png
+100,42.99486066,-79.23148407,East Main Pharmacy ,Welland,816 East Main St,(905) 735-1500,Yes,,Unsure - resources provided,,./0.png
+101,42.99923499,-79.26797242,Prince Charles Pharmacy,Welland,555 Prince Charles Dr N,(905) 735-8200,Yes - next day delivery,,No,,./0.png
+102,42.98560402,-79.23861264,Remedy'sRx Pharmacy,Welland,"390 Lincoin St, Unit B",(905) 788-2700,Yes - next day delivery,,No,,./0.png
+103,42.98406657,-79.25161439,Rexall Pharmacy ,Welland,399 King St,(905) 732-9611,Yes,,No,,./0.png
+104,43.00319439,-79.27208388,Rexall Pharmacy ,Welland,325 Thorold Rd,(905) 732-1663,Yes,,No,,./0.png
+105,42.99354262,-79.2452889,Rose City Pharmacy,Welland,188 East Main St,(905) 735-7505,Yes - next day delivery,,No,,./0.png
+106,43.01512603,-79.24831265,Shoppers Drug Mart,Welland,"800 Niagara St N, Unit H2",(905) 735-7525,Yes - next day delivery,,No,,./0.png
+107,42.97537973,-79.24013496,Shoppers Drug Mart,Welland,825 Ontario Rd,(905) 788-2111,Yes - next day delivery,,No,,./0.png
+108,43.00386031,-79.28690788,Shoppers Drug Mart,Welland,595 South Pelham Rd,(905) 735-5644,Yes - next day delivery,,No,,./0.png
+109,42.9834071,-79.25795294,Welland Drugstore,Welland,"95 Lincoln St, Unit 1 ",(365) 364-7246,Stated they could order but sounded hesitant,,,,./0.png
+110,43.02171557,-79.2503517,Whole Health Niagara Pharmacy,Welland,"905 Niagara St, Unit 1",(905) 361-1449,Yes - next day delivery,,Unsure - resources provided,,./0.png
+111,43.01745961,-79.25146279,Zehrs,Welland,821 Niagara St,(905) 732-9010,Yes - next day delivery,,Unsure - resources provided,,./0.png
+112,43.01249458,-79.25234209,Niagara Street Pharmacy,Welland ,545 Niagara St,(905) 735-1400,Yes - next day delivery,,No,,./0.png

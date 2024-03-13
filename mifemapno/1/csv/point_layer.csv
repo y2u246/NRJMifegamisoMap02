@@ -1,0 +1,20 @@
+qc_id,coordinates y,coordinates x,pharmacy,city,address,phone number,carries mifegymiso,kept in stock,charge for it?,charge for it?_1,icon_url
+0,42.90749795,-78.9433783,No Frills DRUGStore Pharmacy,Fort Erie,1135 Thompson Rd,(905) 994-8259,No - does not dispense,0,,,./0.png
+1,43.05771395,-79.05255892,Bradfield Pharmacy,Niagara Falls,8251 Dock St ,(905) 295-3883,No - do not order either,,,,./0.png
+2,43.07963241,-79.09786362,Falls Pharmacy,Niagara Falls,6635 Drummond Rd,(905) 354-3883,No - do not order either,,,,./0.png
+3,43.09069888,-79.09270159,Goldencare Pharmacy,Niagara Falls,5836 Main St,(905) 356-5757,No - do not order either,,,,./0.png
+4,43.09121654,-79.09353897,LiveWell Pharmacy ,Niagara Falls,5803 Main St,(289) 296-0021,No - referred to Community Health,,,,./0.png
+5,43.09889239,-79.0856701,Pharmashield Dispensary,Niagara Falls,5400 Portage Rd,(905) 356-8482,No - not very nice about it,,,,./0.png
+6,43.11051623,-79.09682544,Portage Medical Pharmacy,Niagara Falls,4383 Portage Rd,(905) 356-6986,No - does not order either,,,,./0.png
+7,43.10745411,-79.06588234,Queen Street Pharmacy,Niagara Falls,4421 Queen St,(905) 354-5604,No - does not order either,,,,./0.png
+8,43.09996448,-79.12421991,Shoppers Drug Mart,Niagara Falls,5125 Montrose Rd,(905) 357-1100,No,0,* Pharmacist seemed short and disinterested in discussing,,./0.png
+9,43.11654623,-79.09871779,Trinity Medical Centre Pharmacy,Niagara Falls,3936 Portage Rd,(905) 357-7474,"No - can order but ""suggested"" SDM instead",0,,,./0.png
+10,43.11745051,-79.12303362,Food and Drug Basics Pharmacy,Niagara Falls ,3770 Montrose Rd,(905) 356-1100,No - sounded unfamiliar with medication - took resource but sounded disintersted,,,,./0.png
+11,43.11193829,-79.09689588,Stamford,Niagara Falls ,4256 Portage Rd,(905) 357-5050,No,,,,./0.png
+12,43.15524436,-79.27587704,1st Place Pharmacy,St Catherines ,"300 Fourth Ave, Unit D",(365) 653-8126,"No ""we don't feel comfortable filling these rx""",,,,./0.png
+13,43.1619275,-79.24151599,Court Street Pharmacy,St Catherines ,9 Court St,(905) 346-1100,No,,,,./0.png
+14,43.16562055,-79.250351,Montebello Medical Pharmacy ,St Catherines ,"118 Lake St, Unit 8 ",(905) 684-2662,No,,,,./0.png
+15,43.15525852,-79.28601942,Pathway Pharmacy,St Catherines ,1338 Fourth Ave,(905) 682-4480,No - person sounded super confused. Call back another day,,,,./0.png
+16,43.13294378,-79.22340259,Tremont Medical Pharmacy,St Catherines ,2A Tremont Dr,(905) 682-6200,No,,,,./0.png
+17,42.97543192,-79.24319247,Remedy'sRx Pharmacy,Welland,595 Ontario Rd,(905) 714-9009,No,,,,./0.png
+18,42.99556848,-79.26546796,Rexall Pharmacy ,Welland,"200 Fitch St, Bldg E",(905) 732-2231,No,,,,./0.png
