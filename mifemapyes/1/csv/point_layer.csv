@@ -12,6 +12,7 @@ qc_id,coordinates y,coordinates x,pharmacy,city,address,phone number,carries mif
 9,43.19706725,-79.56757113,Shoppers Drug Mart,Grimsby,"42 St Andrews Ave, Unit 1",(905) 945-9775,Yes,Yes,No,Has never filled - resources provided,./0.png
 10,43.10336348,-79.07310342,All Health Pharmacy and Clinic,Niagara Falls,4932 Victoria Ave,(289) 296-1301,Yes - next day delivery,No,Has never filled - resources provided,No,./0.png
 11,43.10574569,-79.07276205,Community Health Pharmacy ,Niagara Falls,4790 Victoria Ave,(905) 354-4383,Yes,Yes,No,Was not sure - resources provided,./0.png
+51,43.16152152,-79.25500416,Hope Pharmacy,St Catherines ,7 Welland Ave,(289) 273-4561,Yes,,No,No,./0.png
 12,43.08850671,-79.13586447,FreshCo Pharmacy ,Niagara Falls,5931 Kalar Rd,(905) 371-8925,Yes - delivery around 2dys,No,No,No,./0.png
 13,43.09503133,-79.09048953,Goldencare Pharmacy ,Niagara Falls,5546 Portage Rd,(905) 354-0077,Yes - next day delivery,No,Was not sure - resources provided,**Yes - pretty argumentative around resources provided,./0.png
 14,43.10541566,-79.07297073,Guardian Pharmacy,Niagara Falls,4796 Victoria Ave,(905) 354-6437,Yes - next day delivery,No,Was not aware of coverage - resources provided,No,./0.png
@@ -51,7 +52,6 @@ qc_id,coordinates y,coordinates x,pharmacy,city,address,phone number,carries mif
 48,43.17416759,-79.21713785,Greater Niagara Specialty Pharmacy ,St Catherines ,464 Welland Ave,(365) 801-5551,Yes - next day delivery,,No,No,./0.png
 49,43.13201683,-79.26925413,Guardian Pharmacy ,St Catherines ,"10 Macturnbull Dr, Unit 11",(905) 687-1102,Yes - next day delivery,,No,No,./0.png
 50,43.1530306,-79.27861292,Hauser's Pharmacy ,St Catherines ,NHS 1200 Fourth Ave,(905) 685-3030,Yes - call to check stock,,Resources provided - receptive,No - though sounded unsure,./0.png
-51,43.16152152,-79.25500416,Hope Pharmacy,St Catherines ,7 Welland Ave,(289) 273-4561,Yes,,No,No,./0.png
 52,43.18505697,-79.20885664,IDA Pharmacy ,St Catherines ,"366 Bunting Rd, Unit 1",(905) 938-0001,Yes - next day delivery,,No,No,./0.png
 53,43.15322086,-79.21396505,IDA Pharmacy ,St Catherines ,90 Hartzel Rd,(905) 682-6979,Yes - next day delivery,,No,No,./0.png
 54,43.17146492,-79.27394206,IDA Pharmacy ,St Catherines ,211 Martindale Rd,(905) 685-7117,Yes - next day delivery,,No,Unsure - resources provided,./0.png

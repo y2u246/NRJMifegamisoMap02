@@ -1,6 +1,4 @@
 qc_id,coordinates y,coordinates x,pharmacy,city,address,phone number,carries mifegymiso,kept in stock,charge for it?,charge for it?_1,icon_url
-0,43.09449327,-79.09238053,Greater Niagara Pharmacy ,Niagara Falls,5547 Portage Rd,(905) 356-3800,Straight to voicemail - MB FULL,,,,./0.png
-1,43.12217875,-79.10124789,LiveWell Pharmacy ,Niagara Falls,3531 Portage Rd,(289) 296-0900,# not in service,,,,./0.png
 2,43.08933036,-79.09251196,Main Street Pharmacy ,Niagara Falls ,5904 Main St,(289) 296-9564,VM FULL - attempted x3 ,,,,./0.png
 3,43.18748097,-79.23182848,Scott Vine Pharmacy,St Catherines ,"350 Scott St, Units 107 & 108",(905) 646-4800,N/A,,0,,./0.png
 4,43.13736702,-79.21584522,Sobeys Pharmacy,St Catherines ,343 Glendale Ave,(905) 662-3214,N/A,,,,./0.png
@@ -11,3 +9,5 @@ qc_id,coordinates y,coordinates x,pharmacy,city,address,phone number,carries mif
 9,42.9834071,-79.25795294,Welland Drugstore,Welland,"95 Lincoln St, Unit 1 ",(365) 364-7246,Stated they could order but sounded hesitant,,,,./0.png
 10,42.99335648,-79.23386711,Welland Pharmacy,Welland,"601 East Main St, Unit 1",(289) 820-8900,N/A,,,,./0.png
 11,42.99241257,-79.25585303,West Main Community Pharmacy,Welland,"154 West Main St, Unit 5 ",(905) 735-0600,left vm x2,,,,./0.png
+0,43.09449327,-79.09238053,Greater Niagara Pharmacy ,Niagara Falls,5547 Portage Rd,(905) 356-3800,Straight to voicemail - MB FULL,,,,./0.png
+1,43.12217875,-79.10124789,LiveWell Pharmacy ,Niagara Falls,3531 Portage Rd,(289) 296-0900,# not in service,,,,./0.png
